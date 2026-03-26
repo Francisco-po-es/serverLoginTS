@@ -1,0 +1,26 @@
+{
+  "name": "serverlogints",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx private/modules/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francisco-po-es/serverLoginTS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francisco-po-es/serverLoginTS/issues"
+  },
+  "homepage": "https://github.com/Francisco-po-es/serverLoginTS#readme",
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
+  }
+}
